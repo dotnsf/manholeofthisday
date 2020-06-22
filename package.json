@@ -21,6 +21,15 @@
 			}
 		]
 	},
+	"publisher": "dotnsf",
+	"galleryBanner": {
+		"color": "#5c2d91",
+		"theme": "dark"
+	},
+	"repository": {
+	  "type": "git",
+	  "url": "https://github.com/dotnsf/manholeofthisday"
+	},
 	"scripts": {
 		"lint": "eslint .",
 		"pretest": "npm run lint",
