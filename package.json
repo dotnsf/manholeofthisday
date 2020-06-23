@@ -1,8 +1,8 @@
 {
 	"name": "manholeofthisday",
 	"displayName": "manholeOfThisDay",
-	"description": "",
-	"version": "0.0.2",
+	"description": "VSCode extension which shows MOTD(Manhole of this day).",
+	"version": "0.0.3",
 	"engines": {
 		"vscode": "^1.46.0"
 	},
@@ -22,6 +22,7 @@
 		]
 	},
 	"publisher": "dotnsf",
+	"icon": "manhotalk.png",
 	"galleryBanner": {
 		"color": "#5c2d91",
 		"theme": "dark"
